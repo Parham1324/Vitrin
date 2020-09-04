@@ -1,1 +1,1 @@
-[{"عکس":"http://s14.picofile.com/file/8407599492/Negar_20200901_042541.png","متن":"http://s14.picofile.com/file/8407599492/Negar_20200901_042541.png","متن آبی":"سلام\nتست، تب یاب، تبادل، ادمین یاب\ntebik.ir","لینک":"تبادل"}]
+[{"عکس":"http://s14.picofile.com/file/8407599492/Negar_20200901_042541.png","متن":"متنی که کپی می کنید به صورت خودکار اینجا نمایش داده می شود\nتست","متن آبی":"تبادل","لینک":"https://raw.githubusercontent.com/Parham1324/Vitrin/master/README.md"}]
